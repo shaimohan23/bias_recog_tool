@@ -1,0 +1,13 @@
+{
+	"liberal_keywords": [
+	    "climate change", "gun control", "healthcare", "immigration", "LGBTQ", "abortion",
+	    "minimum wage", "wealth tax", "environmental protection", "renewable energy",
+	    "Obama", "Biden", "Clinton", "Kamala Harris", "Obamacare"
+	],
+
+	"conservative_keywords": [
+		"second amendment", "border security", "tax cuts", "pro-life", "religious freedom",
+	    "military strength", "free market", "economic growth", "national defense", "law and order",
+	    "Trump", "Pence", "Vance", "Bush"
+	]
+}
